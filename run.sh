@@ -2,7 +2,7 @@
 
 set -e
 
-export TOKEN="TOKEN"
+export TOKEN="5749543675:AAGQj_Fc-DwohmH3sg7HO6c45T6KJ3CiTDw"
 VENV_NAME="venv"
 VENV=$PWD/$VENV_NAME
 
